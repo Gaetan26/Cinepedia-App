@@ -36,5 +36,7 @@ python -m pip install -r requirements.txt
 
 Votre environnement virtuel crée et prêt à l'emploi il ne vous reste plus qu'à lancer le programme avec une instruction `python main.py`
 
-[<video controls autoplay=true src="https://gaetan26.github.io/cinepedia-app/export/video.mp4">Aperçu</video>]
+
+
+https://github.com/user-attachments/assets/68c54d2d-4705-4301-aaff-f0f5882d466b
 
