@@ -1,0 +1,11 @@
+{
+    "sizes":{
+        "window_width_percent":40.263543192,
+        "window_ratio":1.078431373
+    },
+    
+    "api":{
+        "endpoint":"http://www.omdbapi.com/",
+        "apikey":"98fe6a3b"
+    }
+}
